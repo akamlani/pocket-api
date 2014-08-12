@@ -2,13 +2,20 @@
     "headline": "News AutoReel", 
     "articles": [
         {
-            "url": "http://www.r-bloggers.com/weekly-variability-simulation-of-fantasy-football-projections/", 
+            "url": "http://www.comsol.com/blogs/physics-behind-baseball-pitches/", 
             "tags": [
-                "datascience", 
                 "sportsds"
             ], 
             "categories": [], 
-            "title": "Weekly Variability Simulation of Fantasy Football Projections"
+            "title": "The Physics Behind Baseball Pitches"
+        }, 
+        {
+            "url": "http://www.nature.com/srep/2014/140731/srep05890/full/srep05890.html#affil-auth", 
+            "tags": [
+                "datascience"
+            ], 
+            "categories": [], 
+            "title": "Scientific Reports"
         }, 
         {
             "url": "https://github.com/josephmisiti/awesome-machine-learning", 
@@ -17,6 +24,14 @@
             ], 
             "categories": [], 
             "title": "josephmisiti/awesome-machine-learning \u00b7 GitHub"
+        }, 
+        {
+            "url": "http://www.usatoday.com/story/sports/nfl/2014/07/30/metrics-sensor-shoulder-pads-zebra-speed-tracking/13382443/", 
+            "tags": [
+                "sportsds"
+            ], 
+            "categories": [], 
+            "title": "Player-tracking system will let NFL fans go deeper than ever"
         }, 
         {
             "url": "http://labs.ideo.com/2014/06/11/information-overload/", 
@@ -35,6 +50,23 @@
             ], 
             "categories": [], 
             "title": "onurakpolat/awesome-bigdata \u00b7 GitHub"
+        }, 
+        {
+            "url": "http://www.r-bloggers.com/weekly-variability-simulation-of-fantasy-football-projections/", 
+            "tags": [
+                "datascience", 
+                "sportsds"
+            ], 
+            "categories": [], 
+            "title": "Weekly Variability Simulation of Fantasy Football Projections"
+        }, 
+        {
+            "url": "http://www.sap-tv.com/video/?imm_mid=0c0daa&cmp=em-strata-na-na-newsltr_20140806_elist#/32601/ingrid-klimke-s-ride-at-chio-aachen", 
+            "tags": [
+                "sportsds"
+            ], 
+            "categories": [], 
+            "title": "SAP TV"
         }, 
         {
             "url": "http://phys.org/news/2013-09-machine-stories-wearable-cameras.html", 

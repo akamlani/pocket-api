@@ -11,4 +11,4 @@ GetPocket API Functionality Integration
   *  -k <CONSUMER_KEY>, --key=<CONSUMER_KEY> consumer key,default=""
 
 Example usage:
-python pocketapi.py -k '<key value>'
+python pocketapi.py -k 'key value'

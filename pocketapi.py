@@ -42,7 +42,7 @@ def get_access_token(consumer_key, code):
 
 def get_articles(consumer_key, access_token):
 	get_data = {'consumer_key': consumer_key, 'access_token': access_token,
-				'contentType': 'article', 'state': 'all',
+			        'state': 'all',
 				'detailType': 'complete', 'sort': 'newest',
 				'tag': TAG_PREFIX}
 	response = requests.post(GET_URL, data=json.dumps(get_data), headers=headers)
@@ -72,7 +72,7 @@ def process_articles(data):
 				  'tags': tags,
 				  'categories': categories}
 		# add to dictionary
-		articles.append(record)
+		articles.append(record); 
 	pprint.pprint(articles)	
 	return articles
 
